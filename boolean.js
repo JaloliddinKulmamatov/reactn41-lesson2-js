@@ -70,8 +70,30 @@
 
 //boolean12
 
-let A = 1;
-let B = 5;
-let C = -5;
+// let A = 2;
+// let B = -1;
+// let C = 5;
 
-console.log(Math.sign(A == B || B == C || C == A ));
+// console.log(A == -B || B == -C || C == -A );
+
+//boolean13
+// let C = 3;
+// let B = 8;
+// let A = 8;
+
+//  D =A > B > C;
+
+// console.log(D);
+
+//boolean14
+
+let C = 3;
+let B = 2;
+let A = 1;
+
+ D = C > B > A;
+ 
+
+console.log(D );
+
+
